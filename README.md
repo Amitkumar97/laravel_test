@@ -8,6 +8,7 @@
 - I have add a database file in db_backup directory.
 - I have use Api routes in routes/api.php
 - If you want to check code logics please see controller i have create eaiser comments there.
+- API documentations https://docs.google.com/document/d/18BbTf27bdryB_yjtp9NujX0AgDFp0mmWpaZOiareCdo/edit?usp=sharing
 
 ## About me
 
