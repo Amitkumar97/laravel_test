@@ -11,9 +11,9 @@
 
 ## About me
 
-I'm a individual Node and laravel developer from last 4 years.
-I'm happy to work with you and your team if you have any query please contact me on
-amdeveloper97@gmail.com or 
+I'm a individual Node and laravel developer from last 4 years.__
+I'm happy to work with you and your team.__
+Please contact me on amdeveloper97@gmail.com or 
 
 ## Live project by me
 - https://fashionporters.com
