@@ -16,11 +16,11 @@ I'm happy to work with you and your team if you have any query please contact me
 amdeveloper97@gmail.com or 
 
 ## Live project by me
-https://fashionporters.com
-https://www.myindiagk.com
-https://www.joinmdnow.com/
-https://joeskills.com/admin/
-http://13.244.86.130/admin
-https://ca.nextdoor.com
-https://stock.dialecticdev.com/
+- https://fashionporters.com
+- https://www.myindiagk.com
+- https://www.joinmdnow.com/
+- https://joeskills.com/admin/
+- http://13.244.86.130/admin
+- https://ca.nextdoor.com
+- https://stock.dialecticdev.com/
 
